@@ -19,8 +19,8 @@ Developer - @securitybites
 
 ## And theres more
 
-1. You can use gittools to test for open git repositories. Clone it here: https://github.com/internetwache/GitTools . Shout out to gehaxeIt for creating this awesome toolset.
+1. You can use gittools to test for open git repositories. Clone it here: https://github.com/internetwache/GitTools . Shout out to gehaxeIt for creating this awesome toolset. Check out `gittingDeep.md` for more in-depth information on how to bring it all together and hack some stuff.
 
-2. Take a look at /public_files/. I have included a few files with millions of urls to test against.
+2. Take a look at /public\_files/. I have included a few files with millions of urls to test against.
 
 3. Feel free to contribute and make these scripts more powerful. Pull requests encouraged.
