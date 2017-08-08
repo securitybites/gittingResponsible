@@ -54,6 +54,11 @@ To make life easier, you can search using these commands:
 
 ![][image-5]
 
+
+## How to fix the problem
+
+![][image-6]
+
 [1]:	https://github.com/internetwache/GitTools
 
 [image-1]:	https://s3.amazonaws.com/hacking.online.public/google.png
@@ -61,3 +66,4 @@ To make life easier, you can search using these commands:
 [image-3]:	https://s3.amazonaws.com/hacking.online.public/twoPaths.png
 [image-4]:	https://s3.amazonaws.com/hacking.online.public/gitInternalsOverview.png
 [image-5]:	https://s3.amazonaws.com/hacking.online.public/search.png
+[image-6]:	https://s3.amazonaws.com/hacking.online.public/howToFix.png
